@@ -1,0 +1,95 @@
+Participant,Q1) What is your age?,Q2) What is your gender?,Q3) What is your most recent degree?  (e.g. BSc in Electrical Engineering),Q4) Have you ever used GenerativeAI (GenAI)? (Yes/No)?,"Q5) If you answered 'Yes' to Q4, how often do you use GenAI? (e.g. once a week)",Q7) Which country you feel most connected to? This may not be the country where you were born
+1,21,Female,BSc Audiovisual Systems Engineering ,Yes,Every day,Catalonia (not a contry but I don't feel connected to spain :) ) 
+2,X,Male,BSc in Electrical Engineering,Yes,Multiple times a week,Denmark
+3,22,Male,BSc in Computer Engineering,Yes,Multiple times a week,Denmark
+4,24,Male,BSc in Software Development,Yes,Every day,Denmark
+5,31,Male,BSc in Electronical Engineering,Yes,Every day,Denmark
+6,23,Male,BSc in Computer Engineering,Yes,Every day,Denmark
+7,27,Male,BSc in Software Technology,Yes,Every day,Denmark
+8,22,Male,Bachelors degree in Telecomunications Engineering,Yes,Every day,Spain
+9,25,Female,B.Sc. in Engineering in Health Technology,Yes,5-6 times a week,Denmark
+10,24,Female,BSc in Healthcare Technology,Yes,Every day,Denmark
+11,25,Male,BSc in Computer Engineering,Yes,Multiple times per day,Denmark
+12,26,Male,BSc in Electrical Engineering,Yes,Rarely,Danmark
+13,23,Female,BSc in Electrical Engineering,Yes,Every day,Spain 
+14,25,Male,BEng in Electrical Engineering,Yes,Every day,Denmark
+15,23,Male,Master of Science in Computer Engineering,Yes,Depends,Denmark
+16,26,Female,Master of Science in Computer Engineering,Yes,Every day,Nepal
+17,25,Male,BSc in Software Engineering,Yes,4-5 times a week,Iceland
+18,22,Male,BSc in Computer Engineering,Yes,Every day,Italy
+19,27,Female,BSc in Elektroteknologi,Yes,Every day,Denmark
+20,25,Male,B.Sc. in Engineering in Health Technology,yes,Every day,Denmark
+21,26,Male,Master of Science in Computer Engineering,Yes,Every day,Denmark
+22,21,Female,Master of Science in Computer Engineering,Yes,Every day,Denmark
+23,21,Male,BSc in Computer Scinece and Engineering,Yes,Every day,Portugal
+24,24,Female,BSc in Healthcare technology,Yes,5-6 times a week,Denmark
+25,28,Male,BSc in Electronincs Engineering,yes,Every day,greece
+26,23,Male,Bsc in Computer Engineering,Yes,Every day,Italy
+27,28,Male,Bachelors (diplomingeniør) in software engineering,Yes,Multiple times a week,I really like New Zealand. Cool place
+28,25,Male,BSc in Computer Engineering,Yes,Every day,Denmark
+29,27,Male,BSc in electrical Engineering,Yes,Every day,Denmark
+30,3,Male,BS Electrical Computer Engineering,Yes,4-5 times a week,Portugal
+31,26,Female,Bachelor of Engineering in Health Technology,Yes,Other,Denmark 
+32,24,Female,B.Sc. in Engineering in Health Technology,Yes,5-6 times a week,Denmark
+33,27,Male,Bsc Computer Engineering,Yes,Every day,Denmark
+34,24,Male,Master of Science in Computer Engineering,Yes,Every day,Denmark
+35,23,Male,BSc in Computer Engineering,Yes,Every day,Denmark
+36,24,Male,BSc in Computer Science,Yes,Every day,Netherlands
+37,27,Male,BEng Electrical Engineering (Electronics),Yes,Every day,Denmark
+38,25,Male,Master of Science in Electrical Engineering,Yes,Every day,Bnagladesh
+39,22,Male,BSc in Computer Engineering,Yes,Multiple times a week,Denmark
+40,25,Male,BSc Software Eng.,Yes,Every day,Dähnemark
+41,28,Female,Bsc in computer Science and Engineering,yes,3-4 times a week,Bangladesh
+42,28,Male,Master of Science in Computer Engineering,Yes,Every day,Denmark
+43,22,Male,BSc in Electrical Engineering,No,,Denmark
+44,25,Male,BSc in Software Engineering,Yes,Every day,Denmark
+45,X,Male,BSc in Electrical Engineering,Yes,Multiple times a week,Denmark
+46,26,Male,Bsc in Electronic Engineering and Automatic Control,Yes,Rarely,Catalonia
+47,23,Male,MSc in Computer Engineering,Yes,Every day,Spain/Catalonia
+48,22,Male,BSc in Electrical Engineering,Yes,Every day,Denmark
+49,26,Male,BSc in Computer Engineering,Yes,Multiple times per day,"India, Denmark, Nepal"
+50,27,Male,BSc in Electrical Engineering,Yes,Every day,Bangladesh
+51,30,Female,Bsc in Information Engineering,Yes,Every day,Denmark
+52,25,Male,BSc Eletrical Engineering,Yes,Once a week,Denmark
+53,26,Male,BEng in Electrical Engineering,Yes,Every day,Denmark
+54,23,Male,Bsc in Electrical Engineering,Yes,2-3 times a week,Denmark
+55,27,Male,BSC in Electrical Engineering,Yes,Every day,Denmark
+56,28,Male,BSc in Electrical Engineering,Yes,Every day,Denmark
+57,26,Male,Bsc in Computer Automation and Applied Informatics,Yes,2-3 times a week,Romania
+58,27,Male,Bsc in Electrical and Electronics Engineering,Yes,Almost every day,Bangladesh
+59,22,Male,Bsc in Electrical Engineering,Yes,5-6 times a week,Hungary
+60,25,Male,BSC in Electrical Engineering,Yes,Every day,Denmark
+61,25,Male,Bachelor of Science in Electrical Engineering,Yes,Once a week,Hungary
+62,26,Male,BSc in Energy Engineering,Yes,Every day,Portugal
+63,24,Female,Bachelor of Engineering (B.E.) in Information Technology,Yes,Every day,Nepal
+64,26,Male,Bsc Electrical Engineering,Yes,Rarely,Spain
+65,22,Male,BSc in Computer Engineering,Yes,Every day,Spain
+66,26,Female,Bsc in Electrical Engineering,Yes,Every day,Canada
+67,26,Male,Diploma in Electrical Engineering,Yes,Other,Syria
+68,24,Male,BSC in AI,Yes,Every day,Denmark
+69,29,Female,Bachelor of Engineering in Internet of Things Engineering,Yes,Every day,China
+70,23,Male,B.Eng. in Electrical Engineering,No,,Denmark
+71,21,Male,BSc in Informatics and Computing Engineering,Yes,Every day,Portugal
+72,30,Male,Bachelor of Science in Software Development,Yes,2-3 times a week,Denmark
+73,39,Male,Master of Science in Computer Engineering,Yes,Every day,Denmark
+74,25,Male,BSc in Electronical Engineering,Yes,Every day,Denmark
+75,25,Male,BSc in Software Technology,Yes,Every day,Denmark
+76,27,Male,Bsc in Electrical Engineering,Yes,Every day,USA
+77,22,Male,BSc in Electrical Engineering,Yes,Multiple times a week,Denmark
+78,26,Female,Bachlor of Degree in Software Engeenering,Yes,Every day,Denmark
+79,24,Female,Masters of Engineering (M.E.) in Computer Engineering,Yes,Every day,Denmark
+80,26,Male,BSc in Software Engineering,Yes,Every day,Denmark
+81,25,Male,Bsc in Software Engineering,Yes,Multiple times a week,Denmark
+82,25,Male,Bsc in Mechatronics Engineering,Yes,Other,Denmark
+83,24,Male,BSc in Computer Engineering,Yes,5-6 times a week,Denmark
+84,26,Male,Master of Science in Computer Engineering,Yes,Every day,Nepal
+85,26,Male,BSc in electrical engineering,yes,3-4 times a week,Denmark
+86,25,Male,Beng in Electronics,Yes,Every day,Denmark
+87,29,Male,Master of Science in Electrical Engineering,Yes,2-3 times a week,Bnagladesh
+88,24,Male,BEng in Software Technology Engineering,Yes,Every day,Slovakia
+89,27,Female,BSc in Computer Science Engineering,Yes,Multiple times a week,Saudi Arabia
+90,30,Male,Master of Science in Computer Engineering,Yes,Every day,Denmark
+91,24,Male,Applied BSc in Electronics,Yes,Every day,Equal between Denmark and the Netherlands
+92,23,Male,Bsc in Computer Engineering with AI minor,Yes,Every day,Egypt
+93,25,Male,BSc in Electrical Engineering,Yes,3-4 times a week,Faroe Islands
+94,23,Male,BSc in electrical engineering,yes,Every day,Denmark
